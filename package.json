@@ -1,6 +1,6 @@
 {
     "name": "Mario",
-    "version": "0.2",
+    "version": "0.0.1",
     "description": "Mario web game",
     "main": "server.js",
     "scripts": {
