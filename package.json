@@ -8,11 +8,12 @@
       "start": "node server.js"
     },
     "keywords": [
-      "tetris",
+      "mario",
       "node"
     ],
-    "author": "Andrey Arguedas",
+    "author": "RedWolfStudio",
     "license": "ISC",
     "dependencies": {
+        "express": "^4.14.1"
     }
   }
